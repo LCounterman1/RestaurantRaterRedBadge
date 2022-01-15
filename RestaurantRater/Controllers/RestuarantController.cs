@@ -7,7 +7,7 @@ using System.Web.Mvc;
 
 namespace RestaurantRater.Controllers
 {
-    public class RestuarantController : Controller
+    public class RestaurantController : Controller
     {
         private RestaurantDbContext _db = new RestaurantDbContext();
 
